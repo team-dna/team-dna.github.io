@@ -1,3 +1,11 @@
+/* This stylesheet wasn't being imported properly - removing this rule
+
 p {
   font-size: 2em;
+}
+*/
+
+/* Hide the hamburger on mobile seeing as the navigation is unused */
+span.toggle {
+    display: none;
 }
