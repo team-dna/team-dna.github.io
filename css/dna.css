@@ -1,3 +1,12 @@
 /* Hide the hamburger on mobile seeing as the navigation is unused */
 span.toggle {
     display: none;
+  }
+
+.dna-role {
+  font-size: 1.2em;
+}
+
+.dna-capletter {
+  font-size: 3em;
+}
